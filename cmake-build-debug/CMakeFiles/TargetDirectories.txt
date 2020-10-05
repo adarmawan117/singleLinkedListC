@@ -1,0 +1,3 @@
+D:/Joki/C/Iqbal/Baru/usingCLion/tugas1/cmake-build-debug/CMakeFiles/tugas1.dir
+D:/Joki/C/Iqbal/Baru/usingCLion/tugas1/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Joki/C/Iqbal/Baru/usingCLion/tugas1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
